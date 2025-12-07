@@ -1,5 +1,6 @@
 # Ilya Sullivan
 **Software Developer | UI/UX Designer | Graphic Designer | App Developer | Web Developer**
+
 *[M.Eng. Computer Science & Software Engineering at UoB](https://www.birmingham.ac.uk/study/undergraduate/subjects/computer-science-courses/computer-science-software-engineering-meng)*
 
 ## ⌛ Current Projects
