@@ -6,7 +6,7 @@
 ## ⌛ Current Projects
 | Name | Type | Tools | Summary |
 |----|----|----|----|
-| [PrismConnect](https://ilyasullivan.com/prismconnect) | Product Development | Affinity Studio |  **UoB: Human Computer Interaction**: Solving "problematic behaviours that impact everyday life" by reducing scams on communication apps using multi-layer real-time verification. Full case study coming early 2026 |
+| [PrismConnect](https://ilyasullivan.com/project/prismconnect) | Product Development | Affinity Studio |  **UoB: Human Computer Interaction**: Solving "problematic behaviours that impact everyday life" by reducing scams on communication apps using multi-layer real-time verification. Full case study coming early 2026 |
 | [Personal Portfolio](https://ilyasullivan.com) | Web Development | VSCode, TS | Currently developing new tools section and adding new projects |
 
 ## ✨ Featured Projects
