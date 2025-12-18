@@ -6,7 +6,7 @@
 ## ⌛ Current Projects
 | Name | Type | Tools | Summary |
 |----|----|----|----|
-| [Personal Portfolio](https://ilyasullivan.com) | Web Development | VSCode, TS | <img width="1901" height="1010" alt="image" src="https://github.com/user-attachments/assets/61c8a4e2-4662-4377-a8ac-013ccfb1dc76" /> <br /><br /> Currently developing a new tool: Advanced Text Generator, improving mockups by giving them realistic data custom to your project |
+| [Personal Portfolio](https://ilyasullivan.com) | Web Development | VSCode, TS | <img width="1901" height="1010" alt="image" src="https://github.com/user-attachments/assets/61c8a4e2-4662-4377-a8ac-013ccfb1dc76" /> <br /><br /> Currently developing a new tool: Advanced Text Generator, improving mockups by giving them realistic data custom to your project - Currently in beta testing: [Try it out](https://ilyasullivan.com/tool/textgen) |
 
 ## ✨ Featured Projects
 | Name | Type | Tools & Languages | Summary |
