@@ -7,9 +7,9 @@
 | Name | Type | Tools | Summary |
 |----|----|----|----|
 | Final Year Project | App Development | Electron, ReactJS | In the process of mapping out my project details for next year |
-| Intelligent Interactive Systems | Literature Review | | Reviewing Bias and Fairness within Short-Form Video Platforms |
+| Intelligent Interactive Systems | Literature Review | | Reviewing Bias and Fairness within Short-Form Video Platforms. Read it [here](https://www.ilyasullivan.com/resources/project/bias-fairness/IIS%20Literature%20Review.pdf) |
 | Intelligent Software Engineering | Software Development | Python | Writing a program to automate software engineering tasks |
-| Mobile & Ubiquitous Systems | App Development | React Native | Developing an arduino based system that can predict movements |
+| Mobile & Ubiquitous Systems | App Development | React Native | ![AirShortcut Preview](https://www.ilyasullivan.com/image/projects/airshortcut/airshortcut.png) <br /><br /> Finishing up on the AirShortcut application  |
 | [Personal Portfolio](https://ilyasullivan.com) | Web Development | VSCode, TS | <img width="1901" height="1010" alt="image" src="https://github.com/user-attachments/assets/61c8a4e2-4662-4377-a8ac-013ccfb1dc76" /> <br /><br /> Currently developing a new tool: Advanced Text Generator, improving mockups by giving them realistic data custom to your project - Currently in beta testing: [Try it out](https://ilyasullivan.com/tool/textgen) |
 
 ## ✨ Featured Projects
