@@ -6,7 +6,7 @@
 ## ⌛ Current Projects
 | Name | Type | Tools | Summary |
 |----|----|----|----|
-| Final Year Project | App Development | Electron, ReactJS | In the process of mapping out my project details for next year |
+| Final Year Project | App Development |  | In the process of mapping out my project details for next year |
 | Intelligent Interactive Systems | Literature Review | | Reviewing Bias and Fairness within Short-Form Video Platforms. Read it [here](https://www.ilyasullivan.com/resources/project/bias-fairness/IIS%20Literature%20Review.pdf) |
 | Intelligent Software Engineering | Software Development | Python | ![gocp](https://github.com/user-attachments/assets/727e8a85-7fa5-495c-bb7f-342d2bda83b4) <br /><br /> Recently completed code clone detector - [Graph-of-Code Python](https://github.com/IlyaSulli/GoCP)  |
 | Mobile & Ubiquitous Systems | App Development | React Native | ![airtouch](https://github.com/user-attachments/assets/62cfea8d-03ac-40c0-acf3-8528c439033f) <br /><br /> Completed [AirTouch application](https://github.com/IlyaSulli/AirTouch)  |
