@@ -6,8 +6,7 @@
 ## ⌛ Current Projects
 | Name | Type | Tools | Summary |
 |----|----|----|----|
-| [Personal Portfolio](https://ilyasullivan.com) | Web Development | VSCode, TS | <img width="1666" height="1003" alt="image" src="https://github.com/user-attachments/assets/da2c0ae0-f85b-4457-afc2-103aa4d3a21a" />
- <br /><br /> Updated with additional projects and new playground page |
+| [Personal Portfolio](https://ilyasullivan.com) | Web Development | VSCode, TS | <img width="1666" height="1003" alt="image" src="https://github.com/user-attachments/assets/da2c0ae0-f85b-4457-afc2-103aa4d3a21a" /> <br /><br /> Updated with additional projects and new playground page |
 | Final Year Project | App Development |  | In the process of mapping out my project details for next year |
 | Intelligent Interactive Systems | Literature Review | | Reviewing Bias and Fairness within Short-Form Video Platforms. Read it [here](https://www.ilyasullivan.com/resources/project/faircompass) |
 | Intelligent Software Engineering | Software Development | Python | ![gocp](https://github.com/user-attachments/assets/727e8a85-7fa5-495c-bb7f-342d2bda83b4) <br /><br /> Recently completed code clone detector - [Graph-of-Code Python](https://github.com/IlyaSulli/GoCP)  |
